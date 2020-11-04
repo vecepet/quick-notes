@@ -5,7 +5,7 @@
 Use Drafts to quickly note down tasks and notes. And if you do a task quickly, mark it done. Do you want to clean up
  the draft and receive any pending tasks per mail? Invoke **QuickNotes** action.
 
-**QuickNotes** is a Draft action which:
+**QuickNotes** is a Drafts action which:
 
 1. parses current draft looking for tasks and notes
 2. sends each pending task individually per mail, e.g., to allow **Outlook** users to flag them as a task
